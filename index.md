@@ -1,7 +1,6 @@
 {% include navbar.md %}
 
 ---
----
 
 ## Partez à la découverte de nombreuses races
 
