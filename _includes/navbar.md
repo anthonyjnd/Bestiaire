@@ -4,8 +4,8 @@
 - [Accueil](/)
 {% endunless %}
 
-{% unless current == "/Chats/pelage" %}
-- [Le Pelage](/Chats/pelage)
+{% unless current == "Chats/pelage" %}
+- [Le Pelage](Chats/Pelage)
 {% endunless %}
 
 {% unless current == "/Chats/Taille" %}
@@ -21,9 +21,9 @@
 {% endunless %}
 
 {% unless current == "/Chats/Adoption" %}
-- [Adoption](/Chats/Adoption)
+- [Adoption](Chats/Adoption)
 {% endunless %}
 
-{% unless current == "/Chats/VIP" %}
-- [Le Cartel des Ronrons](/Chats/VIP)
+{% unless current == "Chats/VIP" %}
+- [Le Cartel des Ronrons](Chats/VIP)
 {% endunless %}
