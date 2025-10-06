@@ -4,4 +4,6 @@ description: [Une élite féline discrète mais influente.]
 layout: default
 ---
 
+{% include navbar.md %}
 
+---
