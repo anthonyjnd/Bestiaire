@@ -1,6 +1,6 @@
 ---
-title: Le Cartel des Ronrons
-description: [Une élite féline discrète mais influente.]
+title: Basko
+description: [Chatte européenne]
 layout: default
 ---
 
