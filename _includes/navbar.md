@@ -1,6 +1,10 @@
 <style>
-  a:hover {
-    color: #54622e; /* choisis la couleur du hover */
+  nav a {
+    transition: color 0.3s ease; /* rend la couleur fluide au survol */
+  }
+
+  nav a:hover {
+    color: #54622e; /* couleur quand tu passes la souris */
   }
 </style>
 
