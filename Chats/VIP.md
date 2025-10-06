@@ -44,64 +44,64 @@ Cliquez sur un chat pour en apprendre plus sur sa personnalité féline 🐾
 <div class="vip-grid">
   <div class="vip-item">
     <a href="/Bestiaire/Chats/Basko">
-      <img src="/Bestiaire/assets/images/Basko.jpg" alt="Luna">
+      <img src="/Bestiaire/assets/images/Basko.jpg" alt="Basko">
     </a>
     <div class="vip-name">Basko</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Moka">
-      <img src="/Bestiaire/assets/images/moka.jpg" alt="Moka">
+    <a href="/Bestiaire/Chats/Barbeuk">
+      <img src="/Bestiaire/assets/images/moka.jpg" alt="Barbeuk">
     </a>
-    <div class="vip-name">Moka</div>
+    <div class="vip-name">Barbeuk</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Simba">
-      <img src="/Bestiaire/assets/images/simba.jpg" alt="Simba">
+    <a href="/Bestiaire/Chats/Gollum">
+      <img src="/Bestiaire/assets/images/Gollum.jpg" alt="Gollum">
     </a>
-    <div class="vip-name">Simba</div>
+    <div class="vip-name">Gollum</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Noisette">
-      <img src="/Bestiaire/assets/images/noisette.jpg" alt="Noisette">
+    <a href="/Bestiaire/Chats/Pop">
+      <img src="/Bestiaire/assets/images/Pop.jpg" alt="Pop">
     </a>
-    <div class="vip-name">Noisette</div>
+    <div class="vip-name">Pop</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Nymeria">
-      <img src="/Bestiaire/assets/images/nymeria.jpg" alt="Nymeria">
+    <a href="/Bestiaire/Chats/Hermione">
+      <img src="/Bestiaire/assets/images/Hermione.jpg" alt="Hermione">
     </a>
-    <div class="vip-name">Nymeria</div>
+    <div class="vip-name">Hermione</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Tigrou">
-      <img src="/Bestiaire/assets/images/tigrou.jpg" alt="Tigrou">
+    <a href="/Bestiaire/Chats/Amstel">
+      <img src="/Bestiaire/assets/images/Amstel.jpg" alt="Amstel">
     </a>
-    <div class="vip-name">Tigrou</div>
+    <div class="vip-name">Amstel</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Sushi">
-      <img src="/Bestiaire/assets/images/sushi.jpg" alt="Sushi">
+    <a href="/Bestiaire/Chats/Melchior">
+      <img src="/Bestiaire/assets/images/Melchior.jpg" alt="Melchior">
     </a>
-    <div class="vip-name">Sushi</div>
+    <div class="vip-name">Melchior</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Minette">
-      <img src="/Bestiaire/assets/images/minette.jpg" alt="Minette">
+    <a href="/Bestiaire/Chats/Snow">
+      <img src="/Bestiaire/assets/images/Snow.jpg" alt="Snow">
     </a>
-    <div class="vip-name">Minette</div>
+    <div class="vip-name">Snow</div>
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/VIP/Félix">
-      <img src="/Bestiaire/assets/images/felix.jpg" alt="Félix">
+    <a href="/Bestiaire/Chats/Momo">
+      <img src="/Bestiaire/assets/images/felix.jpg" alt="Momo">
     </a>
-    <div class="vip-name">Félix</div>
+    <div class="vip-name">Momo</div>
   </div>
 </div>
