@@ -2,11 +2,14 @@
 
 ---
 
-## Partez à la découverte de nombreuses races
+## Bienvenue sur le Bestiaire des Chats
 
-Ceci est un site regroupant le meilleur ami de l'homme. Le chien, pensez-vous ? NON. Le chat. Vous trouverez les diverses races de chats du monde. Bien évidemment accompagné d'images.  Vous trouverez une section VIP avec les stars félines du monde.
+Ceci est un site regroupant le véritable meilleur ami de l’homme.
+Le chien, pensez-vous ? NON.
+Le chat, évidemment.
 
-<p>DEBUG → page.url = "{{ page.url }}"</p>
+Ici, on rend hommage à ces créatures aussi mystérieuses qu’adorables, qui dorment seize heures par jour, ignorent les ordres, mais savent régner sur nos cœurs (et nos canapés).
+
 
 
 
