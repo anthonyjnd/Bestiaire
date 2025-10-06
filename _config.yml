@@ -1,5 +1,5 @@
 title: [Le Bestiaire Des Chats]
-description: [Une encyclopédie indispensable faites par Anthony]
+description: [Une encyclopédie indispensable faite par Anthony]
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-remote-theme
