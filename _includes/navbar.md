@@ -1,24 +1,9 @@
 <style>
-  nav a {
-    color: #333;
-    text-decoration: none;
-    font-weight: bold;
-    margin-right: 12px;
-    transition: color 0.3s ease;
-  }
-
-  nav a:hover {
-    color: #54622e; /* la couleur au survol (violet doux ici) */
-  }
-
-  nav {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 20px;
+  a:hover {
+    color: #54622e; /* choisis la couleur du hover */
   }
 </style>
+
 
 {% assign current = page.url | remove: 'index.html' | remove: '.html' %}
 
