@@ -1,8 +1,5 @@
 ---
 title: Barbeuk
-
-{: style="text-align: center;" }
-
 description: [Croisée Maine Coon et Européen]
 layout: default
 ---
