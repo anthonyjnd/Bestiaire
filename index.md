@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="{{ '/assets/images/logo.png' | relative_url }}">
+<link rel="icon" type="image/png" href="logo.png">
 
 {% include navbar.md %}
 
