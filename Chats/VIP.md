@@ -43,8 +43,8 @@ Cliquez sur un chat pour en apprendre plus sur sa personnalité féline 🐾
 
 <div class="vip-grid">
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/basko">
-      <img src="/Bestiaire/assets/images/basko.jpg" alt="Luna">
+    <a href="/Bestiaire/Chats/Basko">
+      <img src="/Bestiaire/assets/images/Basko.jpg" alt="Luna">
     </a>
     <div class="vip-name">Basko</div>
   </div>
