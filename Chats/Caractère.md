@@ -1,5 +1,5 @@
 ---
-title: Le Charactère
+title: Le Caractère
 description: [Croisée Maine Coon et Européen]
 layout: default
 ---
