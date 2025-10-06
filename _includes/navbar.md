@@ -12,8 +12,8 @@
 - [La Taille]({{ '/Chats/Taille' | relative_url }})
 {% endunless %}
 
-{% unless current == "/Chats/Caractère" %}
-- [Le Caractère]({{ '/Chats/Caractère' | relative_url }})
+{% unless current == "/Chats/Caractere" %}
+- [Le Caractère]({{ '/Chats/Caractere' | relative_url }})
 {% endunless %}
 
 {% unless current == "/Chats/Toilette" %}
