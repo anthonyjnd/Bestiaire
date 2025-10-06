@@ -1,7 +1,11 @@
 ---
 title: Le Caractère
-description: [Croisée Maine Coon et Européen]
+description: [Mais quelle est la personnalité de nos chats ?]
 layout: default
 ---
 
 {% include navbar.md %}
+
+---
+
+perso
