@@ -5,5 +5,3 @@ layout: default
 ---
 
 {% include navbar.md %}
-
----
