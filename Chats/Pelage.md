@@ -1,6 +1,6 @@
 ---
 title: Le Pelage
-description: [Croisée Maine Coon et Européen]
+description: [De Chewbacca à Voldemort]
 layout: default
 ---
 
