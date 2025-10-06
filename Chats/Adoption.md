@@ -5,3 +5,7 @@ layout: default
 ---
 
 {% include navbar.md %}
+
+---
+
+adoption
