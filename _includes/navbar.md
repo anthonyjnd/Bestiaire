@@ -1,6 +1,6 @@
 <style>
   nav a {
-    transition: color 0.3s ease; /* rend la couleur fluide au survol */
+    transition: color 0.7s ease; /* rend la couleur fluide au survol */
   }
 
   nav a:hover {
