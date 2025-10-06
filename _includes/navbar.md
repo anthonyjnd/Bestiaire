@@ -1,1 +1,1 @@
-[Races](Chats/Barbeuk) - [Le Cartel de luxe des Ronrons](Chats/VIP) 
+[Le Pelage](Chats/pelage) - [La Taille](Chats/Taille) - [Le Charactère](Chats/Charactère) - [Le Cartel des Ronrons](Chats/VIP) - 
