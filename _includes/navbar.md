@@ -1,19 +1,29 @@
-{% assign pages = 
-  "/index:Accueil,
-/Chats/pelage:Le Pelage,
-/Chats/taille:La Taille,
-/Chats/charactere:Le Caractère,
-/Chats/toilette:La Toilette,
-/Chats/adoption:Adoption,
-/Chats/VIP:Le Cartel des Ronrons" | split: "," %}
+{% assign current = page.url | remove: 'index.html' | remove: '.html' %}
 
-{% assign current = page.url | remove: '.html' %}
+{% unless current == "/" %}
+- [Accueil](/)
+{% endunless %}
 
-{% for item in pages %}
-  {% assign parts = item | split: ":" %}
-  {% assign url = parts[0] %}
-  {% assign name = parts[1] %}
-  {% unless current == url %}
-  - [{{ name }}]({{ url | relative_url }})
-  {% endunless %}
-{% endfor %}
+{% unless current == "/Chats/pelage" %}
+- [Le Pelage](/Chats/pelage)
+{% endunless %}
+
+{% unless current == "/Chats/Taille" %}
+- [La Taille](/Chats/Taille)
+{% endunless %}
+
+{% unless current == "/Chats/Charactère" %}
+- [Le Caractère](/Chats/Charactère)
+{% endunless %}
+
+{% unless current == "/Chats/Toilette" %}
+- [La Toilette](/Chats/Toilette)
+{% endunless %}
+
+{% unless current == "/Chats/Adoption" %}
+- [Adoption](/Chats/Adoption)
+{% endunless %}
+
+{% unless current == "/Chats/VIP" %}
+- [Le Cartel des Ronrons](/Chats/VIP)
+{% endunless %}
