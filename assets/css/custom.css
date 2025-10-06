@@ -1,0 +1,7 @@
+body {
+  cursor: url('/Bestiaire/assets/images/cursor.png'), auto;
+}
+
+a:hover {
+  cursor: url('/Bestiaire/assets/images/cursor-hover.png'), pointer;
+}
