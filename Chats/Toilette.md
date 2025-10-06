@@ -1,6 +1,6 @@
 ---
-title: Barbeuk
-description: [Croisée Maine Coon et Européen]
+title: La Toilette
+description: [Les secrets de la toilette du chat]
 layout: default
 ---
 
