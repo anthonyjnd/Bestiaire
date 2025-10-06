@@ -4,8 +4,8 @@
 - [Accueil]({{ '/' | relative_url }})
 {% endunless %}
 
-{% unless current == "/Chats/pelage" %}
-- [Le Pelage]({{ '/Chats/pelage' | relative_url }})
+{% unless current == "/Chats/Pelage" %}
+- [Le Pelage]({{ '/Chats/Pelage' | relative_url }})
 {% endunless %}
 
 {% unless current == "/Chats/Taille" %}
