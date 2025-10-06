@@ -1,6 +1,6 @@
 ---
 title: L'Adoption
-description: [Croisée Maine Coon et Européen]
+description: [Devenir parent d'un enfant si mignon]
 layout: default
 ---
 
