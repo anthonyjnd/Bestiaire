@@ -1,3 +1,9 @@
+---
+title: [Le Bestiaire Des Chats]
+description: [Une encyclopédie indispensable faite par Anthony]
+layout: default
+---
+
 {% include navbar.md %}
 
 ---
