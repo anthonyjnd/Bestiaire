@@ -1,6 +1,6 @@
 ---
 title: Le Cartel des Ronrons
-description: [Une élite féline discrète mais influente. Ici, ça ronronne… fort.]
+description: [Une élite féline discrète mais influente.]
 layout: default
 ---
 
