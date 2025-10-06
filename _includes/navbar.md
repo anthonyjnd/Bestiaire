@@ -1,1 +1,7 @@
-[Le Pelage](Chats/pelage) - [La Taille](Chats/Taille) - [Le Charactère](Chats/Charactère) - [La Toilette](Chats/Toilette) - [Le Cartel des Ronrons](Chats/VIP) - 
+{% unless page.url == "/index" %} - [Acceuil](/index){% endunless %}
+{% unless page.url == "/Chats/pelage/" %}[Le Pelage](/Chats/pelage){% endunless %}
+{% unless page.url == "/Chats/Taille/" %} - [La Taille](/Chats/Taille){% endunless %}
+{% unless page.url == "/Chats/Charactère/" %} - [Le Charactère](/Chats/Charactère){% endunless %}
+{% unless page.url == "/Chats/Toilette/" %} - [La Toilette](/Chats/Toilette){% endunless %}
+{% unless page.url == "/Chats/Adoption/" %} - [Adoption](/Chats/Adoption){% endunless %}
+{% unless page.url == "/Chats/VIP/" %} - [Le Cartel des Ronrons](/Chats/VIP){% endunless %}
