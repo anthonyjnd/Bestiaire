@@ -1,6 +1,6 @@
 ---
 title: La Taille
-description: [Croisée Maine Coon et Européen]
+description: [Des nains ou des géants ?]
 layout: default
 ---
 
