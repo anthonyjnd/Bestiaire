@@ -1,3 +1,9 @@
+<script>
+  const link = document.createElement("link");
+  link.rel = "icon";
+  link.href = "https://anthonyjnd.github.io/Bestiaire/favicon.ico"; // URL absolue vers ton favicon
+  document.head.appendChild(link);
+</script>
 
 {% include navbar.md %}
 
