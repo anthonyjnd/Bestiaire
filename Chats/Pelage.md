@@ -24,17 +24,17 @@ Elles découlent principalement de deux pigments :
 
 Ces pigments se mélangent et donnent naissance à une **palette de robes** fascinante :
 
-<p align="center">
-  
-| Couleur | Description | Exemple |
-|:--|:--|:--|
-| **Noir** | Profond, brillant et uniforme | ![Chat noir](/Bestiaire/assets/images/blackcat.jpg) |
-| **Blanc** | Sans pigments, symbole de pureté | ![Chat blanc](/Bestiaire/assets/images/whitecat.jpg) |
-| **Roux** | Chaud et lumineux, souvent tigré | ![Chat roux](/Bestiaire/assets/images/gingercat.jpg) |
-| **Gris (bleu)** | Dérivé du noir, aspect argenté | ![Chartreux](/Bestiaire/assets/images/greycat.jpg) |
-| **Crème** | Version claire du roux | ![Chat crème](/Bestiaire/assets/images/creamcat.jpg) |
+<div align="center">
 
-</p>
+| Couleur | Description | Exemple |
+|:--:|:--:|:--:|
+| **Noir** | Profond, brillant et uniforme | ![Chat noir](https://anthonyjnd.github.io/Bestiaire/assets/images/blackcat.jpg) |
+| **Blanc** | Sans pigments, symbole de pureté | ![Chat blanc](https://anthonyjnd.github.io/Bestiaire/assets/images/whitecat.jpg) |
+| **Roux** | Chaud et lumineux, souvent tigré | ![Chat roux](https://anthonyjnd.github.io/Bestiaire/assets/images/gingercat.jpg) |
+| **Gris (bleu)** | Dérivé du noir, aspect argenté | ![Chartreux](https://anthonyjnd.github.io/Bestiaire/assets/images/greycat.jpg) |
+| **Crème** | Version claire du roux | ![Chat crème](https://anthonyjnd.github.io/Bestiaire/assets/images/creamcat.jpg) |
+
+</div>
 
 ---
 
