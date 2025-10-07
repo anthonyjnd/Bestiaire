@@ -39,8 +39,23 @@ Ce léchage :
 Certains chats, notamment à poils longs ou à peau sensible, nécessitent un toilettage supplémentaire :
 - Brossage régulier.
 - Bain occasionnel.
-- Coupe de griffes.
+- Coupe de griffes (avec précaution, voir avertissement ci-dessous).
 - Nettoyage des oreilles et des yeux.
+
+---
+
+## ⚠️ Avertissement sur la coupe des griffes
+
+Il est important de savoir **qu’il ne faut jamais couper trop profondément les griffes**.  
+La partie vivante de la griffe, appelée **le nerf**, est sensible et douloureuse si elle est coupée.  
+Une coupe incorrecte peut entraîner :
+- Douleur et saignement.
+- Infection.
+- Anxiété du chat vis-à-vis du toilettage.
+
+💡 Conseil :  
+Il est recommandé de **laisser cette tâche à un vétérinaire ou un toiletteur professionnel** si tu n’es pas sûr de la technique.  
+On peut aussi utiliser des grattoirs pour entretenir les griffes naturellement.
 
 ---
 
@@ -56,7 +71,8 @@ Rarement nécessaire sauf si le chat est sale ou a un problème de peau.
 Utiliser un shampoing spécial chat.
 
 ### 3. La coupe des griffes  
-Important pour éviter les griffures involontaires et protéger le mobilier.
+À effectuer avec précaution et seulement si nécessaire.  
+Utiliser un coupe-ongles adapté pour chats.
 
 ### 4. Le nettoyage des yeux et oreilles  
 Utiliser un coton doux et un nettoyant adapté, jamais de coton-tige.
@@ -85,7 +101,7 @@ Certaines situations nécessitent l’intervention d’un toiletteur :
 
 - Brosse douce ou peigne adapté au type de poils.
 - Shampooing spécial chat.
-- Coupe-ongles pour chats.
+- Coupe-ongles pour chats (à utiliser avec précaution).
 - Lingettes nettoyantes pour oreilles et yeux.
 - Gants de toilettage pour réduire les poils perdus.
 
@@ -98,4 +114,3 @@ c’est un geste d’amour, de santé et de respect envers le chat.
 Un entretien régulier améliore son bien-être et renforce le lien entre l’animal et son humain.
 
 > “Toiletter un chat, c’est prendre soin de son âme autant que de son corps.” — *Proverbe félin*
-
