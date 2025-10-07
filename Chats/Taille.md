@@ -31,10 +31,10 @@ La taille d’un chat peut influencer :
 
 | Taille | Poids moyen | Longueur moyenne | Exemple |
 |:--:|:--:|:--:|:--:|
-| **Petit** | 2,5 à 4 kg | 30 à 40 cm | ![Chat petit](https://anthonyjnd.github.io/Bestiaire/assets/images/smallcat.jpg) |
-| **Moyen** | 4 à 6 kg | 40 à 50 cm | ![Chat moyen](https://anthonyjnd.github.io/Bestiaire/assets/images/mediumcat.jpg) |
-| **Grand** | 6 à 9 kg | 50 à 70 cm | ![Chat grand](https://anthonyjnd.github.io/Bestiaire/assets/images/bigcat.jpg) |
-| **Très grand** | 9 à 12 kg | 70 à 90 cm | ![Chat très grand](https://anthonyjnd.github.io/Bestiaire/assets/images/giantcat.jpg) |
+| **Petit** | 2,5 à 4 kg | 30 à 40 cm | ![Chat petit](https://anthonyjnd.github.io/Bestiaire/assets/images/petit.jpg) |
+| **Moyen** | 4 à 6 kg | 40 à 50 cm | ![Chat moyen](https://anthonyjnd.github.io/Bestiaire/assets/images/moyen.jpg) |
+| **Grand** | 6 à 9 kg | 50 à 70 cm | ![Chat grand](https://anthonyjnd.github.io/Bestiaire/assets/images/grand.jpg) |
+| **Très grand** | 9 à 12 kg | 70 à 90 cm | ![Chat très grand](https://anthonyjnd.github.io/Bestiaire/assets/images/tresgrand.jpg) |
 
 ---
 
@@ -78,9 +78,9 @@ Pour suivre la croissance de ton chat, tu peux :
 ## 📷 Galerie : Chats de différentes tailles
 
 <p align="center">
-<img src="https://anthonyjnd.github.io/Bestiaire/assets/images/smallcat.jpg" alt="Chat petit" width="200">
-<img src="https://anthonyjnd.github.io/Bestiaire/assets/images/mediumcat.jpg" alt="Chat moyen" width="200">
-<img src="https://anthonyjnd.github.io/Bestiaire/assets/images/bigcat.jpg" alt="Chat grand" width="200">
+<img src="https://anthonyjnd.github.io/Bestiaire/assets/images/petit.jpg" alt="Chat petit" width="200">
+<img src="https://anthonyjnd.github.io/Bestiaire/assets/images/moyen.jpg" alt="Chat moyen" width="200">
+<img src="https://anthonyjnd.github.io/Bestiaire/assets/images/tresgrand.jpg" alt="Chat grand" width="200">
 </p>
 
 ---
@@ -92,7 +92,3 @@ Elle influence sa santé, son comportement et ses besoins.
 Observer et comprendre la taille de votre chat, c’est mieux l’aimer et mieux prendre soin de lui.
 
 > “Un chat qui grandit bien est un chat heureux.” — *Proverbe félin*
-
----
-
-
