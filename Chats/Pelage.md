@@ -42,7 +42,7 @@ Voici les plus courants :
 | Motif | Description | Exemple |
 |:--|:--|:--|
 | **Uni (solide)** | Une seule couleur sur tout le corps | ![Chat noir](https://anthonyjnd.github.io/Bestiaire/assets/images/blackcat.jpg) |
-| **Tigré (tabby)** | Rayures, marbrures ou taches | ![Chat tigré](https://anthonyjnd.github.io/Bestiaire/assets/images/ginger.jpg) |
+| **Tigré (tabby)** | Rayures, marbrures ou taches | ![Chat tigré](https://anthonyjnd.github.io/Bestiaire/assets/images/gingercat.jpg) |
 | **Bicolore** | Mélange de blanc + une autre couleur | ![Chat bicolore](https://anthonyjnd.github.io/Bestiaire/assets/images/bicolore.jpg) |
 | **Écaille de tortue** | Mélange de noir et roux, typiquement femelle | ![Chat écaille](https://anthonyjnd.github.io/Bestiaire/assets/images/tortue.jpg) |
 | **Colourpoint** | Extrémités foncées (nez, oreilles, pattes, queue) | ![Siamois](https://anthonyjnd.github.io/Bestiaire/assets/images/siamese.jpg) |
