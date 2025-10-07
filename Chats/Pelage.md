@@ -99,7 +99,6 @@ Observer, entretenir et admirer son pelage, c’est aussi mieux comprendre son c
 
 Quelques photos pour la beauté du poil 😻 :
 
-![Chat qui se toilette](https://anthonyjnd.github.io/Bestiaire/assets/images/toilette.jpg)
 ![Chat au pelage soyeux](https://anthonyjnd.github.io/Bestiaire/assets/images/soyeux.jpg)
 ![Chat noir et blanc](https://anthonyjnd.github.io/Bestiaire/assets/images/noirblanc.jpg)
 
