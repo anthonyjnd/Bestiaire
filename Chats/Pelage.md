@@ -26,11 +26,11 @@ Ces pigments se mélangent et donnent naissance à une **palette de robes** fasc
 
 | Couleur | Description | Exemple |
 |:--|:--|:--|
-| **Noir** | Profond, brillant et uniforme | ![Chat noir](https://upload.wikimedia.org/wikipedia/commons/0/0b/Blackcat-Lilith.jpg) |
-| **Blanc** | Sans pigments, symbole de pureté | ![Chat blanc](https://upload.wikimedia.org/wikipedia/commons/1/1b/Cat_-_white_cat.jpg) |
-| **Roux** | Chaud et lumineux, souvent tigré | ![Chat roux](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg) |
-| **Gris (bleu)** | Dérivé du noir, aspect argenté | ![Chartreux](https://upload.wikimedia.org/wikipedia/commons/5/51/Chartreux_cat.jpg) |
-| **Crème** | Version claire du roux | ![Chat crème](https://upload.wikimedia.org/wikipedia/commons/1/1d/Cream_cat.jpg) |
+| **Noir** | Profond, brillant et uniforme | ![Chat noir](/Bestiaire/assets/images/blackcat.jpg) |
+| **Blanc** | Sans pigments, symbole de pureté | ![Chat blanc](/Bestiaire/assets/images/whitecat.jpg) |
+| **Roux** | Chaud et lumineux, souvent tigré | ![Chat roux](/Bestiaire/assets/images/gingercat.jpg) |
+| **Gris (bleu)** | Dérivé du noir, aspect argenté | ![Chartreux](/Bestiaire/assets/images/greycat.jpg) |
+| **Crème** | Version claire du roux | ![Chat crème](/Bestiaire/assets/images/creamcat.jpg) |
 
 ---
 
