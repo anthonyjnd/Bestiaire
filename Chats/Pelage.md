@@ -24,8 +24,6 @@ Elles découlent principalement de deux pigments :
 
 Ces pigments se mélangent et donnent naissance à une **palette de robes** fascinante :
 
-<div align="center">
-
 | Couleur | Description | Exemple |
 |:--:|:--:|:--:|
 | **Noir** | Profond, brillant et uniforme | ![Chat noir](https://anthonyjnd.github.io/Bestiaire/assets/images/blackcat.jpg) |
@@ -33,8 +31,6 @@ Ces pigments se mélangent et donnent naissance à une **palette de robes** fasc
 | **Roux** | Chaud et lumineux, souvent tigré | ![Chat roux](https://anthonyjnd.github.io/Bestiaire/assets/images/gingercat.jpg) |
 | **Gris (bleu)** | Dérivé du noir, aspect argenté | ![Chartreux](https://anthonyjnd.github.io/Bestiaire/assets/images/greycat.jpg) |
 | **Crème** | Version claire du roux | ![Chat crème](https://anthonyjnd.github.io/Bestiaire/assets/images/creamcat.jpg) |
-
-</div>
 
 ---
 
