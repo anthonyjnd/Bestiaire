@@ -5,14 +5,3 @@ baseurl: "/Bestiaire"                   # nom de ton dépôt
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-remote-theme
-  
-<style>
-table {
-  margin-left: auto;
-  margin-right: auto;
-}
-table img {
-  display: block;
-  margin: auto;
-}
-</style>
