@@ -91,8 +91,6 @@ Le pelage du chat n’est pas qu’une question d’esthétique.
 C’est un **indice précieux de sa santé, de son bien-être et de son mode de vie**.  
 Observer, entretenir et admirer son pelage, c’est aussi mieux comprendre son compagnon félin.  
 
-> “Un chat bien dans son poil est un chat bien dans sa tête.” — *Proverbe félin*
-
 ---
 
 ## 🐾 Images bonus
@@ -102,3 +100,4 @@ Quelques photos pour la beauté du poil 😻 :
 ![Chat au pelage soyeux](https://anthonyjnd.github.io/Bestiaire/assets/images/soyeux.jpg)
 ![Chat noir et blanc](https://anthonyjnd.github.io/Bestiaire/assets/images/noirblanc.jpg)
 
+> “Un chat bien dans son poil est un chat bien dans sa tête.” — *Proverbe félin*
