@@ -41,11 +41,11 @@ Voici les plus courants :
 
 | Motif | Description | Exemple |
 |:--|:--|:--|
-| **Uni (solide)** | Une seule couleur sur tout le corps | ![Chat noir](https://upload.wikimedia.org/wikipedia/commons/0/0b/Blackcat-Lilith.jpg) |
-| **Tigré (tabby)** | Rayures, marbrures ou taches | ![Chat tigré](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg) |
-| **Bicolore** | Mélange de blanc + une autre couleur | ![Chat bicolore](https://upload.wikimedia.org/wikipedia/commons/2/2d/Bicolor_cat.jpg) |
-| **Écaille de tortue** | Mélange de noir et roux, typiquement femelle | ![Chat écaille](https://upload.wikimedia.org/wikipedia/commons/8/81/Tortoiseshell_cat.jpg) |
-| **Colourpoint** | Extrémités foncées (nez, oreilles, pattes, queue) | ![Siamois](https://upload.wikimedia.org/wikipedia/commons/b/bc/Siamese_cat.jpg) |
+| **Uni (solide)** | Une seule couleur sur tout le corps | ![Chat noir](https://anthonyjnd.github.io/Bestiaire/assets/images/blackcat.jpg) |
+| **Tigré (tabby)** | Rayures, marbrures ou taches | ![Chat tigré](https://anthonyjnd.github.io/Bestiaire/assets/images/ginger.jpg) |
+| **Bicolore** | Mélange de blanc + une autre couleur | ![Chat bicolore](https://anthonyjnd.github.io/Bestiaire/assets/images/bicolore.jpg) |
+| **Écaille de tortue** | Mélange de noir et roux, typiquement femelle | ![Chat écaille](https://anthonyjnd.github.io/Bestiaire/assets/images/tortue.jpg) |
+| **Colourpoint** | Extrémités foncées (nez, oreilles, pattes, queue) | ![Siamois](https://anthonyjnd.github.io/Bestiaire/assets/images/siamese.jpg) |
 
 ---
 
@@ -78,10 +78,10 @@ Certaines races se distinguent par des poils vraiment particuliers :
 
 | Races | Particularité | Image |
 |:--|:--|:--|
-| **Sphynx** | Pas de poils du tout ! | ![Sphynx](https://upload.wikimedia.org/wikipedia/commons/3/31/Sphynx_cat_on_red_couch.jpg) |
-| **Maine Coon** | Poils longs et épais, collerette royale | ![Maine Coon](https://upload.wikimedia.org/wikipedia/commons/5/5e/Maine_Coon_female.jpg) |
-| **Scottish Fold** | Pelage dense et soyeux | ![Scottish Fold](https://upload.wikimedia.org/wikipedia/commons/5/57/Scottish_fold_cat.jpg) |
-| **Abyssin** | Poil court “ticked”, avec plusieurs bandes de couleur | ![Abyssin](https://upload.wikimedia.org/wikipedia/commons/8/89/Abyssinian_cat.jpg) |
+| **Sphynx** | Pas de poils du tout ! | ![Sphynx](https://anthonyjnd.github.io/Bestiaire/assets/images/sphynx.jpg) |
+| **Maine Coon** | Poils longs et épais, collerette royale | ![Maine Coon](https://anthonyjnd.github.io/Bestiaire/assets/images/mainecoon.jpg) |
+| **Scottish Fold** | Pelage dense et soyeux | ![Scottish Fold](https://anthonyjnd.github.io/Bestiaire/assets/images/scottishfold.jpg) |
+| **Abyssin** | Poil court “ticked”, avec plusieurs bandes de couleur | ![Abyssin](https://anthonyjnd.github.io/Bestiaire/assets/images/abyssin.jpg) |
 
 ---
 
@@ -99,7 +99,7 @@ Observer, entretenir et admirer son pelage, c’est aussi mieux comprendre son c
 
 Quelques photos pour la beauté du poil 😻 :
 
-![Chat qui se toilette](https://upload.wikimedia.org/wikipedia/commons/b/b0/Cat_cleaning_its_paw.jpg)
-![Chat au pelage soyeux](https://upload.wikimedia.org/wikipedia/commons/7/7e/Longhaired_cat.jpg)
-![Chat noir et blanc](https://upload.wikimedia.org/wikipedia/commons/d/d8/Black_and_white_cat.jpg)
+![Chat qui se toilette](https://anthonyjnd.github.io/Bestiaire/assets/images/toilette.jpg)
+![Chat au pelage soyeux](https://anthonyjnd.github.io/Bestiaire/assets/images/soyeux.jpg)
+![Chat noir et blanc](https://anthonyjnd.github.io/Bestiaire/assets/images/noirblanc.jpg)
 
