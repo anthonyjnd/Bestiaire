@@ -74,9 +74,9 @@ Un parfait équilibre entre **tendresse et caractère**.
 
 ## 🌟 Petite particularité
 
-Basko adore “parler”.  
+Basko a une personnalité bien à elle : un mélange de **dignité féline et d’affection sincère**. Elle adore “parler”.  
 Quand elle n’est pas en train de dormir, elle communique sans arrêt : miaulements, petits sons roulés, voire même des réponses quand on lui parle.  
-C’est sa façon de dire *“je suis là”*.  
+Elle sait ce qu’elle veut, et n’hésite pas à miauler pour l’obtenir — avec charme, bien sûr.  
 
 Et quand vient la chasse, plus rien ne l’arrête — oiseaux, insectes ou jouets, tout devient une proie potentielle.
 
