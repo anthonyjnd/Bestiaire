@@ -30,7 +30,7 @@ L’adoption permet :
 
 ![SPA et adoption](https://anthonyjnd.github.io/Bestiaire/assets/images/adoption.jpg)
 
-*Exemple d’un refuge ou d’une association œuvrant pour l’adoption.*
+*Facade de la S.P.A. de Saint-Malo.*
 
 ---
 
