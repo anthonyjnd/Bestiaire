@@ -68,8 +68,6 @@ Un parfait équilibre entre **tendresse et caractère**.
 
 </div>
 
-💡 *Tu peux ajouter d’autres photos ici : il suffit de les placer dans `/assets/images/` et d’ajouter de nouvelles colonnes au tableau ci-dessus.*
-
 ---
 
 ## 🌟 Petite particularité
