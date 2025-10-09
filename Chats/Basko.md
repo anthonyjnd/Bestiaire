@@ -27,16 +27,19 @@ layout: default
 **Âge :** 3 ans  
 **Sexe :** Femelle  
 
-Basko est une superbe chatte européenne au pelage **tigré brun doré**, orné de reflets chauds et de rayures profondes.  
-Son regard ambré mêle **curiosité et sérénité**, et sa posture témoigne d’une confiance naturelle : Basko, c’est la noblesse du chat dans toute sa splendeur.
+Basko est une magnifique chatte européenne au pelage **tigré brun doré**, avec des reflets chauds et des rayures bien marquées.  
+Son regard ambré exprime à la fois **douceur, curiosité et assurance** — c’est une véritable petite reine du foyer.
+Sa posture témoigne d’une confiance naturelle : Basko, c’est la noblesse du chat dans toute sa splendeur.
 
 ---
 
 ## 💕 Caractère
 
-Basko est **douce, expressive et pleine de vie**.  
-Elle miaule souvent pour communiquer — un petit “r” roulé unique qu’elle utilise pour tout : saluer, réclamer ou simplement discuter.  
-C’est une chatte très attachée à son humain, mais aussi fière et indépendante.  
+Basko est une chatte **gentille, joueuse et très expressive**.  
+Elle adore discuter : ses miaulements sont une véritable conversation, ceux-ci utilisés pour communiquer — un petit “r” roulé unique qu’elle utilise pour tout : saluer, réclamer ou simplement pour se faire remarquer.  
+Souvent, elle miaule juste pour dire bonjour, pour réclamer un câlin… ou un peu de nourriture. 🍽️
+
+C’est une chatte très attachée à son humain (Moi, Anthony), elle aime être proche de lui, observer chaque mouvement, et venir se poser tranquillement à proximité, mais est aussi fière et indépendante.
 Un parfait équilibre entre **tendresse et caractère**.
 
 > “Elle ne parle pas avec des mots, mais chaque regard a du sens.”
@@ -45,11 +48,13 @@ Un parfait équilibre entre **tendresse et caractère**.
 
 ## 🐦 Passions félines
 
-- Observer les oiseaux depuis la fenêtre 🐥  
+- Observer les oiseaux depuis la fenêtre 🐥 (… ou parfois plus 😼)
 - Faire de longues siestes sur les tables ou les chaises les plus confortables 💤  
 - Explorer son territoire avec prudence et curiosité  
 - Profiter des caresses, mais seulement quand **elle** le décide  
-- Se rouler sur le dos pour demander un câlin discret  
+- Se rouler sur le dos pour demander un câlin discret
+- Observer le monde avec un air sérieux, comme si elle réfléchissait à des plans de conquête féline.
+- Dormir profondément après ses grandes aventures.  
 
 ---
 
