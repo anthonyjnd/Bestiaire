@@ -22,8 +22,8 @@ layout: default
 ## 🐾 Présentation
 
 **Nom complet :** Barbeuk  
-**Race :** Croisée Maine Coon et Européenne
-**Date de naissance :** 26 mars 2023
+**Race :** Croisée Maine Coon et Européenne  
+**Date de naissance :** 26 mars 2023  
 **Âge :** 2 ans  
 **Sexe :** Femelle  
 
