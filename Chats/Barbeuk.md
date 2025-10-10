@@ -61,16 +61,6 @@ Mais malgré son énergie, elle garde un fond de tendresse et de calme dès qu�
 |:--:|:--:|:--:|
 | La sérénité du soir | Chasse Imaginaire | Exploratrice |
 
-<div align="center">
-
-| ![Barbeuk posée](/Bestiaire/assets/images/Barbeuk.jpg) | ![Barbeuk curieuse](/Bestiaire/assets/images/Barbeuk2.jpg) | ![Barbeuk joueuse](/Bestiaire/assets/images/Barbeuk3.jpg) |
-|:--:|:--:|:--:|
-| La sérénité du soir | Curieuse du monde | En pleine chasse imaginaire |
-
-</div>
-
-💡 *Tu peux ajouter d’autres photos ici : il suffit de les placer dans `/assets/images/` et de modifier les noms dans le tableau.*
-
 ---
 
 ## 🌟 Particularité
