@@ -60,13 +60,9 @@ Un parfait équilibre entre **tendresse et caractère**.
 
 ## 📸 Galerie Royale
 
-<div align="center">
-
-| ![Basko détendue](/Bestiaire/assets/images/BaskoDodo.jpg) | ![Basko au soleil](/Bestiaire/assets/images/BaskoEau.jpg) | ![Basko Blasé](/Bestiaire/assets/images/BaskoDemon.jpg) |
+| ![Basko détendue](/Bestiaire/assets/images/BaskoDodo.jpg) | ![Basko au soleil](/Bestiaire/assets/images/BaskoEau.jpg) | ![Basko Démon](/Bestiaire/assets/images/BaskoDemon.jpg) |
 |:--:|:--:|:--:|
 | Détente absolue | Reine du soleil | Démoniaque |
-
-</div>
 
 ---
 
