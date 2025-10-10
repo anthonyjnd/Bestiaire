@@ -51,7 +51,7 @@ Cliquez sur un chat pour en apprendre plus sur sa personnalité féline 🐾
 
   <div class="vip-item">
     <a href="/Bestiaire/Chats/Barbeuk">
-      <img src="/Bestiaire/assets/images/moka.jpg" alt="Barbeuk">
+      <img src="/Bestiaire/assets/images/Barbeuk.jpg" alt="Barbeuk">
     </a>
     <div class="vip-name">Barbeuk</div>
   </div>
