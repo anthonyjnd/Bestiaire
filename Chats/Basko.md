@@ -62,9 +62,9 @@ Un parfait équilibre entre **tendresse et caractère**.
 
 <div align="center">
 
-| ![Basko détendue](/Bestiaire/assets/images/Basko.jpg) | ![Basko au soleil](/Bestiaire/assets/images/Basko2.jpg) | ![Basko curieuse](/Bestiaire/assets/images/Basko3.jpg) |
+| ![Basko détendue](/Bestiaire/assets/images/BaskoDodo.jpg) | ![Basko au soleil](/Bestiaire/assets/images/BaskoEau.jpg) | ![Basko Blasé](/Bestiaire/assets/images/BaskoDemon.jpg) |
 |:--:|:--:|:--:|
-| Détente absolue | Reine du soleil | Curieuse et observatrice |
+| Détente absolue | Reine du soleil | Démoniaque |
 
 </div>
 
@@ -92,6 +92,6 @@ Première fille du Roi, elle incarne à la fois **la majesté et l’affection**
 ---
 
 <div align="center">
-  <img src="/Bestiaire/assets/images/Basko4.jpg" alt="Basko en mode majestueuse" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <img src="/Bestiaire/assets/images/BaskoBlase.jpg" alt="Terreur nocturne" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   <p><em>“Que tous s’inclinent devant la Reine des Ronrons.”</em></p>
 </div>
