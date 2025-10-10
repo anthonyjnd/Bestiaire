@@ -65,7 +65,7 @@ Cliquez sur un chat pour en apprendre plus sur sa personnalité féline 🐾
 
   <div class="vip-item">
     <a href="/Bestiaire/Chats/Pop">
-      <img src="/Bestiaire/assets/images/Pop.jpg" alt="Pop">
+      <img src="/Bestiaire/assets/images/PopVin.jpg" alt="Pop">
     </a>
     <div class="vip-name">Pop</div>
   </div>
