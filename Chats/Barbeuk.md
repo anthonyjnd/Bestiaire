@@ -91,7 +91,7 @@ Barbeuk, c’est la **douce énergie** du Cartel : un mélange parfait de libert
 ---
 
 <div align="center">
-  <img src="/Bestiaire/assets/images/Barbeuk4.jpg" alt="Barbeuk majestueuse" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <img src="/Bestiaire/assets/images/BarbeukVeste.jpg" alt="Barbeuk au lit" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   <p><em>“Deuxième fille du Roi, héritière d'agilité et de beauté”</em></p>
 </div>
 
