@@ -13,7 +13,7 @@ layout: default
 ---
 
 <div align="center">
-  <img src="/Bestiaire/assets/images/Pop.jpg" alt="Pop" width="300" style="border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <img src="/Bestiaire/assets/images/PopVin.jpg" alt="Pop" width="300" style="border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   <p><em>Le Prince de la Bêtise — rusé, vif et toujours en mouvement.</em></p>
 </div>
 
