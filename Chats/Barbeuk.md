@@ -57,9 +57,9 @@ Mais malgré son énergie, elle garde un fond de tendresse et de calme dès qu�
 
 ## 📸 Galerie Royale
 
-| ![Barbeuk Dodo](/Bestiaire/assets/images/BarbeukDodo.jpg) | ![Barbeuk chasse ?](/Bestiaire/assets/images/BarbeukHerb.jpg) | ![Barbeuk Aventure](/Bestiaire/assets/images/BarbeukRock.jpg) |
+| ![Barbeuk Dodo](/Bestiaire/assets/images/BarbeukAqua.jpg) | ![Barbeuk chasse ?](/Bestiaire/assets/images/BarbeukHerb.jpg) | ![Barbeuk Aventure](/Bestiaire/assets/images/BarbeukDodo.jpg) |
 |:--:|:--:|:--:|
-| La sérénité du soir | Chasse Imaginaire | Exploratrice |
+| Sur l'Aquarium | Chasse Imaginaire | La sérénité du soir |
 
 ---
 
@@ -81,7 +81,7 @@ Barbeuk, c’est la **douce énergie** du Cartel : un mélange parfait de libert
 ---
 
 <div align="center">
-  <img src="/Bestiaire/assets/images/BarbeukVeste.jpg" alt="Barbeuk au lit" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <img src="/Bestiaire/assets/images/BarbeukRok.jpg" alt="Barbeuk au lit" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   <p><em>“Deuxième fille du Roi, héritière d'agilité et de beauté”</em></p>
 </div>
 
