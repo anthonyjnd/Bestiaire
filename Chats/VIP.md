@@ -85,23 +85,9 @@ Cliquez sur un chat pour en apprendre plus sur sa personnalité féline 🐾
   </div>
 
   <div class="vip-item">
-    <a href="/Bestiaire/Chats/Melchior">
-      <img src="/Bestiaire/assets/images/Melchior.jpg" alt="Melchior">
-    </a>
-    <div class="vip-name">Melchior</div>
-  </div>
-
-  <div class="vip-item">
     <a href="/Bestiaire/Chats/Snow">
       <img src="/Bestiaire/assets/images/Snow.jpg" alt="Snow">
     </a>
     <div class="vip-name">Snow</div>
-  </div>
-
-  <div class="vip-item">
-    <a href="/Bestiaire/Chats/Momo">
-      <img src="/Bestiaire/assets/images/felix.jpg" alt="Momo">
-    </a>
-    <div class="vip-name">Momo</div>
   </div>
 </div>
