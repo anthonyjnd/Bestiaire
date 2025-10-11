@@ -61,9 +61,9 @@ Sous ses airs de petit démon, c’est un chat d’une grande tendresse. Il aime
 
 ## 📸 Galerie Royale
 
-| ![Pop dehors](/Bestiaire/assets/images/PopJardin.jpg) | ![Pop observe](/Bestiaire/assets/images/PopFenetre.jpg) | ![Pop farceur](/Bestiaire/assets/images/PopVol.jpg) |
+| ![Pop dors](/Bestiaire/assets/images/PopDodo.jpg) | ![Pop gambade](/Bestiaire/assets/images/PopPisc.jpg) | ![Pop farceur](/Bestiaire/assets/images/PopVol.jpg) |
 |:--:|:--:|:--:|
-| Le chasseur des jardins | L’observateur rusé | Le voleur de croquettes |
+| Monde des Songes | Gambadeur | Le voleur |
 
 ---
 
@@ -86,7 +86,7 @@ Sans lui, la maison royale serait bien trop calme… et bien moins drôle.
 ---
 
 <div align="center">
-  <img src="/Bestiaire/assets/images/PopSourire.jpg" alt="Pop le farceur royal" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <img src="/Bestiaire/assets/images/PopSol.jpg" alt="Pop le farceur royal" width="300" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   <p><em>“Prince du Chaos, mais Roi du Cœur.”</em></p>
 </div>
 
