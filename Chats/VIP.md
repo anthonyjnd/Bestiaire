@@ -69,25 +69,4 @@ Cliquez sur un chat pour en apprendre plus sur sa personnalité féline 🐾
     </a>
     <div class="vip-name">Pop</div>
   </div>
-
-  <div class="vip-item">
-    <a href="/Bestiaire/Chats/Hermione">
-      <img src="/Bestiaire/assets/images/Hermione.jpg" alt="Hermione">
-    </a>
-    <div class="vip-name">Hermione</div>
-  </div>
-
-  <div class="vip-item">
-    <a href="/Bestiaire/Chats/Amstel">
-      <img src="/Bestiaire/assets/images/Amstel.jpg" alt="Amstel">
-    </a>
-    <div class="vip-name">Amstel</div>
-  </div>
-
-  <div class="vip-item">
-    <a href="/Bestiaire/Chats/Snow">
-      <img src="/Bestiaire/assets/images/Snow.jpg" alt="Snow">
-    </a>
-    <div class="vip-name">Snow</div>
-  </div>
 </div>
