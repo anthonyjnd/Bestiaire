@@ -58,9 +58,10 @@ Cependant, dans ses moments tendres, elle **léchouille, se blottit et ronronne*
 
 ## 📸 Galerie Royale
 
-| ![Gollum repos](/Bestiaire/assets/images/GollumDodo.jpg) | ![Gollum mord](/Bestiaire/assets/images/GollumBite.jpg) | ![Gollum juge](/Bestiaire/assets/images/GollumHo.jpg) |
+| <img src="/Bestiaire/assets/images/GollumDodo.jpg" alt="Gollum repos" width="300" height="300"> | <img src="/Bestiaire/assets/images/GollumBite.jpg" alt="Gollum mord" width="300" height="300"> | <img src="/Bestiaire/assets/images/GollumHo.jpg" alt="Gollum juge" width="300" height="300"> |
 |:--:|:--:|:--:|
 | Sérénité absolue | Reine de l'attaque | Le Jugement |
+
 
 ---
 
